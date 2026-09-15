@@ -236,4 +236,4 @@ This repository serves as the official landing page for OpenRA. The software is 
 **Get the most recent version of OpenRA today!**
 
 ---
-**Last updated:** 2026-09-15 12:15:26 UTC
+**Last updated:** 2026-09-15 17:19:49 UTC
